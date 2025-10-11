@@ -1,0 +1,12 @@
+{
+  "_id": { "$oid": "6741741279e78d9d48608d96" },
+  "email": "admin@gmail.com",
+  "password": "$2a$08$.0d/IbOXMYXQ/wZ60hdi0OoCqP9vlVFwWrnHWnlgq6QkWpdVVoYhm",
+  "firstname": "Admin",
+  "middlename": "",
+  "lastname": "",
+  "avatar": { "url": "", "id": "" },
+  "role": "Admin",
+  "tokens": [],
+  "isEmailVerified": false
+}
