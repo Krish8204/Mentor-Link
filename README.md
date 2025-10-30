@@ -18,7 +18,6 @@ A full‑stack mentoring platform that connects students with mentors. It includ
 - [Tech Stack](#tech-stack)
 - [Project Structure Highlights](#project-structure-highlights)
 - [Common Scripts](#common-scripts)
-- [Screenshots](#screenshots)
 - [Links](#links)
 - [Deployment Notes](#deployment-notes)
 - [Troubleshooting](#troubleshooting)
@@ -181,23 +180,6 @@ npm start
 
 ---
 
-## Screenshots
-
-> Place your images under `client/public/images` or use external links.
-
-```text
-client/public/images/
-  ├─ illustrator_1.png
-  ├─ illustrator_2.png
-  └─ background1.jpg
-```
-
-Example embeds (replace with your own):
-
-![Dashboard](client/public/images/illustrator_1.png)
-![Meetings](client/public/images/illustrator_2.png)
-
----
 
 ## Links
 
