@@ -7,7 +7,7 @@
 
 A full‑stack mentoring platform that connects students with mentors. It includes real‑time chat, meetings, posts, notifications, admin tools, and email workflows.
  
-### Table of Contents
+### Table of Contents 
 - [Monorepo Layout](#monorepo-layout)
 - [Key Features](#key-features)
 - [Prerequisites](#prerequisites)
